@@ -6,10 +6,10 @@ Los códigos de inversión no están incluídos en este repositorio por el momen
 
 | Script | Figura | Descripción |
 |---|---|---|
-| `figura_4_1_loop_D.m` | Fig. 4.1 | Simulación de las tasas de decaimiento por separado de la CPMG variando D |
-| `figura_4_2_loop_TE.m` | Fig. 4.2 | Simulación de las tasas de decaimiento pot separado variando TE |
+| `figura_4_1_loop_D.m` | Fig. 4.1 | Simulación de las tasas de decaimiento por separado de una CPMG variando D |
+| `figura_4_2_loop_TE.m` | Fig. 4.2 | Simulación de las tasas de decaimiento por separado de una CPMG variando TE |
 | `figura_4_3_cpmg_til.m` | Fig. 4.3 | Simulación de treinta señales CPMG variando D e inversión (TIL) |
-| `figura_4_4_loop_D_tau2.m` | Fig. 4.4 | Simulación de señal STE y tasa de decaimiento por D variando D y τ₂ en conjunto |
+| `figura_4_4_loop_D_tau2.m` | Fig. 4.4 | Simulación de señal STE y tasa de decaimiento por difusión variando D y τ₂ en conjunto |
 | `figura_4_5_error_D.m` | Fig. 4.5 | Cálculo del error en la estimación de D |
 | `figura_5_1_mapa_4_poblaciones_2K.m` | Fig. 5.1 | Mapa D-T₂ de 4 poblaciones con modelo de dos kernels |
 | `figura_5_2_mapa_4_poblaciones_2K_curva_T2ef.m` | Fig. 5.2 | Mapa D-T₂ (2K) con curva de T₂ efectivo superpuesta |
